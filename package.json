@@ -1,0 +1,19 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ansi-colors": "^3.1.0",
+    "gulp": "^3.9.1",
+    "gulp-less": "^4.0.1",
+    "gulp-newer": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jose Diaz",
+  "license": "ISC"
+}
